@@ -1,13 +1,13 @@
 {
-  "name": "Egern 应用图标 - 多邻国与酷我",
-  "description": "Duolingo and Kuwo Music icon pack (v2)",
+  "name": "Egern 应用图标合集",
+  "description": "Duolingo 多邻国 · 酷我音乐",
   "icons": [
     {
       "name": "多邻国 Duolingo",
-      "url": "https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png"
+      "url": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/png/duolingo.png"
     },
     {
-      "name": "酷我音乐",
+      "name": "酷我音乐 Kuwo",
       "url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Kuwo.png"
     }
   ]
